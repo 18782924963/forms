@@ -8,9 +8,11 @@
   export default{
     data(){
       return{
+
       }
     },
     beforeMount(){
+      console.log(1);
     },
     mounted(){
     },
